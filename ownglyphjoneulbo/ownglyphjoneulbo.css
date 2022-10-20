@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'ownglyphjoneulbo';
+	font-weight: 400;
+	font-display: swap;
+	src: url('ownglyphjoneulbo/ownglyphjoneulbo.eot'),
+         url('ownglyphjoneulbo/ownglyphjoneulbo.ttf') format('truetype'),
+         url('ownglyphjoneulbo/ownglyphjoneulbo.woff') format('woff'),
+         url('ownglyphjoneulbo/ownglyphjoneulbo.woff2') format('woff2')}
