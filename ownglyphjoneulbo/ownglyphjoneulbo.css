@@ -2,7 +2,8 @@
 	font-family: 'Ownglyph Joneulbo', Regular;
 	font-weight: 400;
 	font-display: swap;
-	src: url('ownglyphjoneulbo/ownglyphjoneulbo.eot'),
-         url('ownglyphjoneulbo/ownglyphjoneulbo.ttf') format('truetype'),
+	src: local('Ownglyph Joneulbo Regular')	     
+	     url('ownglyphjoneulbo/ownglyphjoneulbo.eot') format('embedded-opentype'),
          url('ownglyphjoneulbo/ownglyphjoneulbo.woff') format('woff'),
-         url('ownglyphjoneulbo/ownglyphjoneulbo.woff2') format('woff2')}
+         url('ownglyphjoneulbo/ownglyphjoneulbo.woff2') format('woff2'),
+		 url('ownglyphjoneulbo/ownglyphjoneulbo.ttf') format('truetype');}
